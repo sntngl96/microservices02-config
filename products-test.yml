@@ -2,4 +2,4 @@ spring:
   config:
     activate:
       on-profile: "test"
-ambiente: "test"
+ambiente: "mario"
